@@ -2,16 +2,16 @@
 - init project [x].
 - useState [x].
 - userCounter(customHook) [x].
-- expose method hook [].
-- useEffect(simple form) [].
-- dependences of useEffect [].
-- useEffect unmount(precautions) []
-- form with customHook [].
-- task implement reset function [].
-- useFetch(customHook) [].
-- useFetch+useCounter [].
-- useRef first use [].
-- useLayoutEffect [].
-- memo - useMemo [].
-- useCallback - useCallback with arguments [].
-- memorize task [].
+- expose method hook [ ].
+- useEffect(simple form) [ ].
+- dependences of useEffect [ ].
+- useEffect unmount(precautions) [ ]
+- form with customHook [ ].
+- task implement reset function [ ].
+- useFetch(customHook) [ ].
+- useFetch+useCounter [ ].
+- useRef first use [ ].
+- useLayoutEffect [ ].
+- memo - useMemo [ ].
+- useCallback - useCallback with arguments [ ].
+- memorize task [ ].
