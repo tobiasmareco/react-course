@@ -1,7 +1,7 @@
 #### Section 9 - General Hooks.
-- init project [].
-- useState [].
-- userCounter(customHook) [].
+- init project [x].
+- useState [x].
+- userCounter(customHook) [x].
 - expose method hook [].
 - useEffect(simple form) [].
 - dependences of useEffect [].
