@@ -1,0 +1,17 @@
+#### Section 9 - General Hooks.
+- init project [].
+- useState [].
+- userCounter(customHook) [].
+- expose method hook [].
+- useEffect(simple form) [].
+- dependences of useEffect [].
+- useEffect unmount(precautions) []
+- form with customHook [].
+- task implement reset function [].
+- useFetch(customHook) [].
+- useFetch+useCounter [].
+- useRef first use [].
+- useLayoutEffect [].
+- memo - useMemo [].
+- useCallback - useCallback with arguments [].
+- memorize task [].
